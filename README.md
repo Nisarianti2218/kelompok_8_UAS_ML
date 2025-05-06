@@ -1,4 +1,4 @@
-Link github :
+Link github : https://github.com/Nisarianti2218/kelompok_8_UAS_ML.git
 ### Anggota Kelompok
 - **Nama:** Nisa Rianti(2208107010018)
 - **Nama:** Akhsania Maisa Rahmah(2208107010017)
